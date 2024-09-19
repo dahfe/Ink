@@ -14,7 +14,7 @@
 	<name>spring-gpt-4o</name>
 	<description>Chat gpt project for Spring Boot</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 		<spring-ai.version>1.0.0-M1</spring-ai.version>
 	</properties>
 	<dependencies>
