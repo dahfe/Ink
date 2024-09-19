@@ -28,4 +28,4 @@ services:
       - NGINX_HOST=postgres
       - NGINX_PORT=8080
     depends_on:
-      - postgres
+      - app    
